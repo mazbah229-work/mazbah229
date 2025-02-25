@@ -16,7 +16,7 @@ functions:
           method: any
           path: /{proxy+}
     environment:
-      #DATABASE: ''
-      #USERNAME: ''
-      #PASSWORD: Don't set this if you'll be commiting the file, instead use the AWS console or another method like Parameter Store
-      #HOST: ''
+      #DATABASE: 'btnrdn8y6zrowvjt8uam'
+      #USERNAME: 'ux4ngsnn2eem1it4'
+      #PASSWORD: Kf88Vjldb1V4A9l7JlzL
+      #HOST: 'btnrdn8y6zrowvjt8uam-mysql.services.clever-cloud.com'
